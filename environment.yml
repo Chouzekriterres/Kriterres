@@ -1,0 +1,11 @@
+name: Kriterres
+
+channels:
+- gimli
+- conda-forge
+
+dependencies:
+- pygimli
+- notebook
+- pandas
+- matplotlib
