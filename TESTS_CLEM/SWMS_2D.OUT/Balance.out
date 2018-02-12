@@ -4,3 +4,203 @@
  Time independent boundary conditions
  Axisymmetric flow, V = L*L*L
  Units: L = cm   , T = min  , M = -    
+
+ Time [T]             Total     Sub-region number ...
+
+      0.0000                      1
+ Area    [V]        -0.115E+06 -0.115E+06
+ Volume  [V]        -0.776E+04 -0.776E+04
+ InFlow  [V/T]       0.000E+00  0.000E+00
+ hMean   [L]        -0.913E+02      -91.3
+
+      0.1700                      1
+ Area    [V]        -0.115E+06 -0.115E+06
+ Volume  [V]        -0.332E+05 -0.332E+05
+ InFlow  [V/T]      -0.363E+06 -0.363E+06
+ hMean   [L]               NaN        NaN
+ WatBalT [V]               NaN
+ WatBalR [%]               NaN
+
+      0.3300                      1
+ Area    [V]        -0.115E+06 -0.115E+06
+ Volume  [V]        -0.332E+05 -0.332E+05
+ InFlow  [V/T]       0.000E+00  0.000E+00
+ hMean   [L]               NaN        NaN
+ WatBalT [V]               NaN
+ WatBalR [%]               NaN
+
+      0.5000                      1
+ Area    [V]        -0.115E+06 -0.115E+06
+ Volume  [V]        -0.332E+05 -0.332E+05
+ InFlow  [V/T]       0.000E+00  0.000E+00
+ hMean   [L]               NaN        NaN
+ WatBalT [V]               NaN
+ WatBalR [%]               NaN
+
+      0.6700                      1
+ Area    [V]        -0.115E+06 -0.115E+06
+ Volume  [V]        -0.332E+05 -0.332E+05
+ InFlow  [V/T]       0.000E+00  0.000E+00
+ hMean   [L]               NaN        NaN
+ WatBalT [V]               NaN
+ WatBalR [%]               NaN
+
+      0.8300                      1
+ Area    [V]        -0.115E+06 -0.115E+06
+ Volume  [V]        -0.332E+05 -0.332E+05
+ InFlow  [V/T]       0.000E+00  0.000E+00
+ hMean   [L]               NaN        NaN
+ WatBalT [V]               NaN
+ WatBalR [%]               NaN
+
+      1.0000                      1
+ Area    [V]        -0.115E+06 -0.115E+06
+ Volume  [V]        -0.332E+05 -0.332E+05
+ InFlow  [V/T]       0.000E+00  0.000E+00
+ hMean   [L]               NaN        NaN
+ WatBalT [V]               NaN
+ WatBalR [%]               NaN
+
+      1.1700                      1
+ Area    [V]        -0.115E+06 -0.115E+06
+ Volume  [V]        -0.332E+05 -0.332E+05
+ InFlow  [V/T]       0.000E+00  0.000E+00
+ hMean   [L]               NaN        NaN
+ WatBalT [V]               NaN
+ WatBalR [%]               NaN
+
+      1.3300                      1
+ Area    [V]        -0.115E+06 -0.115E+06
+ Volume  [V]        -0.332E+05 -0.332E+05
+ InFlow  [V/T]       0.000E+00  0.000E+00
+ hMean   [L]               NaN        NaN
+ WatBalT [V]               NaN
+ WatBalR [%]               NaN
+
+      1.5000                      1
+ Area    [V]        -0.115E+06 -0.115E+06
+ Volume  [V]        -0.332E+05 -0.332E+05
+ InFlow  [V/T]       0.000E+00  0.000E+00
+ hMean   [L]               NaN        NaN
+ WatBalT [V]               NaN
+ WatBalR [%]               NaN
+
+      1.6700                      1
+ Area    [V]        -0.115E+06 -0.115E+06
+ Volume  [V]        -0.332E+05 -0.332E+05
+ InFlow  [V/T]       0.000E+00  0.000E+00
+ hMean   [L]               NaN        NaN
+ WatBalT [V]               NaN
+ WatBalR [%]               NaN
+
+      1.8300                      1
+ Area    [V]        -0.115E+06 -0.115E+06
+ Volume  [V]        -0.332E+05 -0.332E+05
+ InFlow  [V/T]       0.000E+00  0.000E+00
+ hMean   [L]               NaN        NaN
+ WatBalT [V]               NaN
+ WatBalR [%]               NaN
+
+      2.0000                      1
+ Area    [V]        -0.115E+06 -0.115E+06
+ Volume  [V]        -0.332E+05 -0.332E+05
+ InFlow  [V/T]       0.000E+00  0.000E+00
+ hMean   [L]               NaN        NaN
+ WatBalT [V]               NaN
+ WatBalR [%]               NaN
+
+      2.1700                      1
+ Area    [V]        -0.115E+06 -0.115E+06
+ Volume  [V]        -0.332E+05 -0.332E+05
+ InFlow  [V/T]       0.000E+00  0.000E+00
+ hMean   [L]               NaN        NaN
+ WatBalT [V]               NaN
+ WatBalR [%]               NaN
+
+      2.3300                      1
+ Area    [V]        -0.115E+06 -0.115E+06
+ Volume  [V]        -0.332E+05 -0.332E+05
+ InFlow  [V/T]       0.000E+00  0.000E+00
+ hMean   [L]               NaN        NaN
+ WatBalT [V]               NaN
+ WatBalR [%]               NaN
+
+      2.5000                      1
+ Area    [V]        -0.115E+06 -0.115E+06
+ Volume  [V]        -0.332E+05 -0.332E+05
+ InFlow  [V/T]       0.000E+00  0.000E+00
+ hMean   [L]               NaN        NaN
+ WatBalT [V]               NaN
+ WatBalR [%]               NaN
+
+      2.6700                      1
+ Area    [V]        -0.115E+06 -0.115E+06
+ Volume  [V]        -0.332E+05 -0.332E+05
+ InFlow  [V/T]       0.000E+00  0.000E+00
+ hMean   [L]               NaN        NaN
+ WatBalT [V]               NaN
+ WatBalR [%]               NaN
+
+      2.8300                      1
+ Area    [V]        -0.115E+06 -0.115E+06
+ Volume  [V]        -0.332E+05 -0.332E+05
+ InFlow  [V/T]       0.000E+00  0.000E+00
+ hMean   [L]               NaN        NaN
+ WatBalT [V]               NaN
+ WatBalR [%]               NaN
+
+      3.0000                      1
+ Area    [V]        -0.115E+06 -0.115E+06
+ Volume  [V]        -0.332E+05 -0.332E+05
+ InFlow  [V/T]       0.000E+00  0.000E+00
+ hMean   [L]               NaN        NaN
+ WatBalT [V]               NaN
+ WatBalR [%]               NaN
+
+      3.1700                      1
+ Area    [V]        -0.115E+06 -0.115E+06
+ Volume  [V]        -0.332E+05 -0.332E+05
+ InFlow  [V/T]       0.000E+00  0.000E+00
+ hMean   [L]               NaN        NaN
+ WatBalT [V]               NaN
+ WatBalR [%]               NaN
+
+      3.3300                      1
+ Area    [V]        -0.115E+06 -0.115E+06
+ Volume  [V]        -0.332E+05 -0.332E+05
+ InFlow  [V/T]       0.000E+00  0.000E+00
+ hMean   [L]               NaN        NaN
+ WatBalT [V]               NaN
+ WatBalR [%]               NaN
+
+      3.5000                      1
+ Area    [V]        -0.115E+06 -0.115E+06
+ Volume  [V]        -0.332E+05 -0.332E+05
+ InFlow  [V/T]       0.000E+00  0.000E+00
+ hMean   [L]               NaN        NaN
+ WatBalT [V]               NaN
+ WatBalR [%]               NaN
+
+      3.6700                      1
+ Area    [V]        -0.115E+06 -0.115E+06
+ Volume  [V]        -0.332E+05 -0.332E+05
+ InFlow  [V/T]       0.000E+00  0.000E+00
+ hMean   [L]               NaN        NaN
+ WatBalT [V]               NaN
+ WatBalR [%]               NaN
+
+      3.8300                      1
+ Area    [V]        -0.115E+06 -0.115E+06
+ Volume  [V]        -0.332E+05 -0.332E+05
+ InFlow  [V/T]       0.000E+00  0.000E+00
+ hMean   [L]               NaN        NaN
+ WatBalT [V]               NaN
+ WatBalR [%]               NaN
+
+      4.0000                      1
+ Area    [V]        -0.115E+06 -0.115E+06
+ Volume  [V]        -0.332E+05 -0.332E+05
+ InFlow  [V/T]       0.000E+00  0.000E+00
+ hMean   [L]               NaN        NaN
+ WatBalT [V]               NaN
+ WatBalR [%]               NaN
