@@ -1,0 +1,22 @@
+*** BLOCK A: BASIC INFORMATION *****************************************
+'Heading'
+Example 1 - Column Test
+LUnit  TUnit  MUnit  BUnit     (units are obligatory for all input data)
+ 'cm'   'min'  '-'    '-'
+Kat (0:horizontal plane, 1:axisymmetric vertical flow, 2:vertical plane
+1
+MaxIt   TolTh   TolH       (maximum number of iterations and tolerances)
+  21    .001   0.5
+lWat	lChem	ChecF	ShortF  FluxF   AtmInF  SeepF  FreeD  DrainF
+ t  f  f      t       t       f       f      t      f
+*** BLOCK B: MATERIAL INFORMATION **************************************
+NMat    NLay    hTab1   hTabN   NPar
+  1      1      .001    200.     9
+thr     ths     tha     thm     Alfa    n       Ks      Kk      thk
+ 0.08    0.56    0.08     0.56    0.011   9.34  0.275 0.275 0.56
+*** BLOCK C: TIME INFORMATION ******************************************
+dt      dtMin   dtMax   DMul    DMul2   MPL
+ .1    .01     10.     1.1     .7     36
+TPrint(1),TPrint(2),...,TPrint(MPL)                   (print-time array)
+0.17 0.33 0.50 0.67 0.83 1.00 1.17 1.33 1.50 1.67 1.83 2.00 2.17 2.33 2.50 2.67 2.83 3.00 3.17 3.33 3.50 3.67 3.83 4.00 4.17 4.33 4.50 4.67 4.83 5.00 5.17 5.33 5.50 5.67 5.83 6.00 
+*** END OF INPUT FILE SELECTOR.IN************************************
